@@ -8,4 +8,11 @@
 <p>Exploring the dataset has two parts:<li>Importing datasets (train and test csv's)</li>
   <li>Reshaping the images</li><p/>
 <h3> CNN Model</h3>
-
+  <li> Creating Sequential Model</li>
+  <li> 3 Convolution </li>
+  <li> 3 Pooling </li>
+  <li> Relu as Activation Function </li>
+  <li> 1 Hidden Layer in ANN </li>
+  
+  <h3> Result</h3>
+    <li> 0.9540 Validation Accuracy </li>
